@@ -2,8 +2,9 @@ THE THREE MOST SIMILAR APP:
 
 steps:
     1 - start the app
-    2 - go to http://127.0.0.1:5000/similar_movies/the_title_to_search 
-        P.S Enter the name of the movie without quotes
+    2 - go to http://127.0.0.1:5000
+    3 - Enter the name of the movie without quotes 
+    4 - press commit
 
 DB:
     movisDetails   table: include all the data with the title as INDEX.
